@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Tuur667.aternos.me",
-    "port": ,
-    "version": "12839",
+    "port": 12839,
+    "version": "",
     "try-creative": false
   },
   "position": {
